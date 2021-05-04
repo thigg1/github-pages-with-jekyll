@@ -1,5 +1,5 @@
 ---
-title: "thigg1's blog"
-date: 20201-05-25
+title: "Your blog post title"
+date: YYYY-MM-DD
 ---
-Hello, I am learning how to use github
+Hello I am leaning how to use github
